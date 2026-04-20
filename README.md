@@ -9,14 +9,20 @@
 ---
 
 ### focus
-python for automation,
-sql + data management,
-arcgis enterprise / services,
-building practical tools
+python for automation,  
+sql + data management,  
+arcgis enterprise / services,  
+building practical tools  
 
-## interests
-api development,
-system integration,
-linux + computer networking 
+---
 
-</div>
+### interests
+api development,  
+system integration,  
+linux + computer networking  
+
+---
+
+<p align="center">
+  <sub>gis system design • automation • ci/cd • data workflows</sub>
+</p>
