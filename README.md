@@ -3,6 +3,12 @@
   <a href="https://www.linkedin.com/in/brooks-booker/">linkedin</a>
 </p>
 
+-
+<p align="center">
+  <sub>gis system design • automation • ci/cd • data workflows</sub>
+</p>
+-
+
 ---
 
 ### focus
@@ -17,7 +23,3 @@ system integration,
 linux + computer networking  
 
 ---
-
-<p align="center">
-  <sub>gis system design • automation • ci/cd • data workflows</sub>
-</p>
