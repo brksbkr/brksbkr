@@ -1,13 +1,11 @@
-<p align="center">
+<h2 align="center">
   <a href="https://brksbkr.github.io">portfolio</a> •
   <a href="https://www.linkedin.com/in/brooks-booker/">linkedin</a>
-</p>
+</h2>
 
--
 <p align="center">
   <sub>gis system design • automation • ci/cd • data workflows</sub>
 </p>
--
 
 ---
 
