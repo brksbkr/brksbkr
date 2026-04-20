@@ -1,4 +1,3 @@
-<h1 align="center">brooks booker</h1>
 <p align="center">oklahoma • gis • dev</p>
 
 <p align="center">
@@ -13,8 +12,6 @@ python for automation,
 sql + data management,  
 arcgis enterprise / services,  
 building practical tools  
-
----
 
 ### interests
 api development,  
