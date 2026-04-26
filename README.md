@@ -10,7 +10,7 @@
 ---
 
 ### focus
-python for automation  
+python  
 sql + data management  
 arcgis enterprise / services  
 building practical tools  
