@@ -10,14 +10,14 @@
 ---
 
 ### focus
-python for automation,  
-sql + data management,  
-arcgis enterprise / services,  
+python for automation  
+sql + data management  
+arcgis enterprise / services  
 building practical tools  
 
 ### interests
-api development,  
-system integration,  
+api development  
+system integration  
 linux + computer networking  
 
 ---
