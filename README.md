@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://brksbkr.github.io">
-    <img src="https://img.shields.io/badge/portfolio-f97316?style=flat&logo=githubpages&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/portfolio-f97316?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" height="28" >
   </a>
   <a href="https://www.linkedin.com/in/brooks-booker/">
-    <img src="https://img.shields.io/badge/linkedin-f97316?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/linkedin-f97316?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" >
   </a>
 </p>
 
