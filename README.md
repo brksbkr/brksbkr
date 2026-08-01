@@ -3,21 +3,5 @@
   <a href="https://www.linkedin.com/in/brooks-booker/">linkedin</a>
 </h2>
 
-<p align="center">
-  <sub>gis system design • automation • ci/cd • data workflows</sub>
-</p>
-
----
-
-### focus
-python  
-sql + data management  
-arcgis enterprise / services  
-building practical tools  
-
-### interests
-api development  
-system integration  
-linux + computer networking  
-
----
+## Languages Used
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brksbkr&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true)
