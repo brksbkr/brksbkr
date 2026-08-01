@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <a href="https://brksbkr.github.io">
     <img src="https://img.shields.io/badge/portfolio-f97316?style=flat&logo=githubpages&logoColor=white" alt="Portfolio" height="28" >
   </a>
